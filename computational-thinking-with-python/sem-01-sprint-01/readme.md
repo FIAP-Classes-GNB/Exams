@@ -1,0 +1,4 @@
+## Sprint 1: 
+Pasta zipada contendo arquivo .py com sua proposta de solução e um readme com o nome dos integrantes e uma breve descrição das funcionalidades implementadas.
+Especificações da Entrega: Criar um programa em Python que atenda aos requisitos propostos no desafio. Para cada funcionalidade definida, é esperado que haja a implementação inicial contendo (minimamente) as regras de negócio planejadas para a funcionalidade em questão.
+Utilizar os conceitos aprendidos em sala de aula na sua proposta de solução. Considere os conceitos de entrada, processamento (simples), saída de dados, armazenamento de dados em variáveis locais e estruturas condicionais.

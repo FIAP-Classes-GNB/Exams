@@ -1,0 +1,4 @@
+## Sprint 2: 
+Pasta zipada contendo arquivo .py com sua proposta de solução e um readme com o nome dos integrantes e uma breve descrição das funcionalidades implementadas.
+Especificações da Entrega: Criar um programa em Python que atenda aos requisitos propostos no desafio. Para cada funcionalidade definida, é esperado uma versão (mesmo que simples) funcional do programa.
+Utilizar os conceitos aprendidos em sala de aula na sua proposta de solução. Considere os conceitos de entrada, processamento, saída de dados, armazenamento de dados em variáveis, estruturas condicionais e de repetição, definição de funções (passagem de parâmetros e retorno).

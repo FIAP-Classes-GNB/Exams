@@ -1,0 +1,2 @@
+## Sprint 1:
+Apresentação de um draft da proposta (arquitetura e componentes) em formato de pitch (40 pontos), simulação do protótipo inicial baseada no Arduino Uno R3 (código + componentes) visando a solução da dor apresentada pelo stakeholder (60 pontos);

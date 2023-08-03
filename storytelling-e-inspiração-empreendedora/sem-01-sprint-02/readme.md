@@ -1,0 +1,2 @@
+## Sprint 2:
+PPT com o canvas da proposta de valor preenchido, com aprofundamento entre o segmento de clientes e a proposta de valor, para melhoria ou lançamento de um novo produto ou serviço. O produto ou serviço ofertado será desenvolvido durante as disciplinas do curso. (100 pontos)

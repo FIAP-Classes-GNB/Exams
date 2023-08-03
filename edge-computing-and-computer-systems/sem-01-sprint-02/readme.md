@@ -1,0 +1,2 @@
+## Sprint 2:
+Simulação completa do módulo baseado na plataforma de prototipação Arduino Uno R3, incluindo código,  componentes eletrônicos, sensores e atuadores, a simulação deve ser realizada no Tinkercad (40 pontos) e deverá ser realizada a apresentação prática do protótipo (PoC - Proof of Concept) proposto no Sprint 1 (60 pontos).
